@@ -1,0 +1,10 @@
+*.class
+*.log
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+*.iml
+*.ipr
+*.iws
