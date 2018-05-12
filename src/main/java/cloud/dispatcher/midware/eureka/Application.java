@@ -1,4 +1,4 @@
-package cloud.dispatcher.midware.eurekaserver;
+package cloud.dispatcher.midware.eureka;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
